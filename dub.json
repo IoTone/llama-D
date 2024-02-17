@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"truedat101"
+	],
+	"copyright": "Copyright 2024, IoTone, Inc.",
+	"description": "llama-cpp bindings for D",
+	"license": "MIT",
+	"name": "llama-d",
+	"targetType": "library",
+	"dependencies": {
+	}
+}
