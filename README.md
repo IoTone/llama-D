@@ -53,6 +53,7 @@ dub test --compiler=ldc2
 
 Here is what is in the list of things to do:
 
+- [ ] add porting of headers for gguf (hopefully this is not messy)
 - [ ] Get a first cut of llama.h port to D
 - [ ] Add linking to libllama.lib/.a/.so
 - [ ] Write a dummy tester to verify that it runs
